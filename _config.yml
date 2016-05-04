@@ -22,9 +22,9 @@ copyright: Carlo Colombo © 2016
 # There are also some special link items representing in string: 'categories', 'tags' and 'archives'
 nav:
   -
-    - categories # display a collapsible category list
+    # - categories # display a collapsible category list
     - tags       # display a collapsible tag list
-    - archives   # display a collapsible archive list
+    # - archives   # display a collapsible archive list
   -
     -
       name: Homepage
