@@ -30,6 +30,9 @@ nav:
       name: Homepage
       url: '/'
     -
+      name: About
+      url: '/about'
+    -
       name: By Year
       url: /archives
   -
