@@ -11,7 +11,7 @@ monochrome: false
 avatar: https://cn.gravatar.com/avatar/56559186a8e4bb75389af7d997c2f41c?s=200
 # avatarLink: /about              #
 maxContentWidth: 1000px # set the main content column's max-width property. keep it blank to unlimited the width
-copyright: Carlo Colombo © 2016
+copyright: Carlo Colombo © 2017
 
 # sidebar navigator structure
 # It's a list with item that is also list.
