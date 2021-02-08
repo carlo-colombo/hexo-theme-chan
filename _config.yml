@@ -21,27 +21,19 @@ copyright: Carlo Colombo © 2017
 # A link starts with http/https would be rendered as a tag with 'target="_blank"' .
 # There are also some special link items representing in string: 'categories', 'tags' and 'archives'
 nav:
-  -
-    # - categories # display a collapsible category list
-    - tags       # display a collapsible tag list
-    # - archives   # display a collapsible archive list
-  -
-    -
-      name: Homepage
-      url: '/'
-    -
-      name: About
-      url: '/about'
-    -
-      name: By Year
-      url: /archives
-  -
-    -
-      name: Github
-      url: https://github.com/carlo-colombo
-    -
-      name: RSS
-      url: /atom.xml
+    - # - categories # display a collapsible category list
+      - tags # display a collapsible tag list
+      # - archives   # display a collapsible archive list
+    - - name: Homepage
+        url: '/'
+      - name: About
+        url: '/about'
+      - name: By Year
+        url: /archives
+    - - name: Github
+        url: https://github.com/carlo-colombo
+      - name: RSS
+        url: /atom.xml
 
 # duoshuo shortname
 # refer to http://duoshuo.com
@@ -79,5 +71,5 @@ cc: by-sa
 # FancyBox / PhotoSwipe
 # Although it is called fancybox, we use PhotoSwipe instead.
 # Check http://photoswipe.com
-fancybox: true    # enable fancybox/photoswipe rendering
+fancybox: true # enable fancybox/photoswipe rendering
 # photoswipe: true  # the same
